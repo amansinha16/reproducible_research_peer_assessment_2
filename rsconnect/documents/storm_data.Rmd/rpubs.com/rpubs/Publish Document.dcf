@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/124072/7449f47e57644316a3fdf13549aa6565
+url: http://rpubs.com/amansinha/124072/edit
+when: 1446826570.90099
