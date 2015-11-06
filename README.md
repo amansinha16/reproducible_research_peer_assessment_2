@@ -1,5 +1,5 @@
-Link on <a href="http://rpubs.com/vanilla_nadal/coursera_repData_2" target="_blank">RPubs</a>  
-My [Coursera-Reproducible-Research](https://github.com/Xiaodan/Coursera-Reproducible-Research) Repo  
+Link on <a href="http://rpubs.com/amansinha/124072" target="_blank">RPubs</a>  
+My [Coursera-Reproducible-Research](https://github.com/amansinha16/reproducible_research_peer_assessment_2) Repository 
 
 ### Introduction
 
